@@ -1,0 +1,5 @@
+package wake
+
+func Detect() {
+
+}
